@@ -2,7 +2,6 @@ package com.PersonalCRM.model;
 
 public class User {
 
-	//@Id
 	int userId;
 	String password;
 	
